@@ -1,0 +1,5 @@
+/Users/timofey/Desktop/teylor/teylor/bin/Debug/teylor.exe
+/Users/timofey/Desktop/teylor/teylor/bin/Debug/teylor.pdb
+/Users/timofey/Desktop/teylor/teylor/obj/Debug/teylor.csprojAssemblyReference.cache
+/Users/timofey/Desktop/teylor/teylor/obj/Debug/teylor.exe
+/Users/timofey/Desktop/teylor/teylor/obj/Debug/teylor.pdb
